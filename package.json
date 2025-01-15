@@ -1,0 +1,18 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://Nevskiy619.github.io/FutureTech",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "sass --watch .",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "sass": "^1.83.0"
+  }
+}
